@@ -8,15 +8,15 @@ I’m a data-oriented student interested in **data analysis, business intelligen
 
 
 ## 📊 Selected projects
-- **[Student Stress – Power BI Dashboard](https://github.com/Alicja141004/student-stress-powerbi-dashboard)**  
-  Interactive dashboard analyzing student stress levels and identifying at-risk groups.  
+- **[Student Stress – Power BI Dashboard](https://github.com/Alicja141004/student-stress-powerbi-dashboard)**
+- Interactive dashboard analyzing student stress levels and identifying at-risk groups.  
 
 
 - **[Python Data Analysis – Continuous Glucose Monitoring (CGM)](https://github.com/Alicja141004/CGM-Data-Analysis)**
-  Exploratory analysis of continuous glucose monitoring (CGM) data from a type 1 diabetes patient, focusing on glucose trends, variability, and time-in-range metrics.
+- Exploratory analysis of continuous glucose monitoring (CGM) data from a type 1 diabetes patient, focusing on glucose trends, variability, and time-in-range metrics.
    
-- **[Distributed Systems Log Analysis – Spikes, Trends, Failures & Anomalies (In Progress 🚧)]**
-Analysis of large-scale synthetic logs from a distributed system to detect spikes, trends, failures, and anomalies, including root cause analysis and predictive modeling.
+- **[Distributed Systems Log Analysis – Spikes, Trends, Failures & Anomalies (In Progress 🚧)](https://github.com/Alicja141004/distributed-log-analysis)**
+- Analysis of large-scale synthetic logs from a distributed system to detect spikes, trends, failures, and anomalies, including root cause analysis and predictive modeling.
 
 
 ## 🎯 Looking for
