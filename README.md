@@ -1,6 +1,7 @@
 # Hi, I'm Alicja 👋
 
-I’m a data-oriented student interested in **data analysis, business intelligence, and data engineering**. I enjoy working with real-world datasets and turning data into **clear, decision-focused insights**.
+I’m an analytical student with experience working with structured datasets, reporting tools, and data validation processes.
+I enjoy transforming data into clear, structured insights that support business decision-making.
 
 ## 🚀 Languages & Tools
 
@@ -18,10 +19,6 @@ I’m a data-oriented student interested in **data analysis, business intelligen
 - **[Distributed Systems Log Analysis – Spikes, Trends, Failures & Anomalies (In Progress 🚧)](https://github.com/Alicja141004/distributed-log-analysis)**
   Analysis of large-scale synthetic logs from a distributed system to detect spikes, trends, failures, and anomalies, including root cause analysis and predictive modeling.
 
-
-## 🎯 Looking for
-- Data Analyst / BI Analyst internship
-- Junior Data Analyst roles
 
 ## 📫 Contact
 - 💼 LinkedIn: [Alicja Szulc](https://www.linkedin.com/in/alicja-szulc-373250256/)
