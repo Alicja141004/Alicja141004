@@ -16,7 +16,7 @@ I enjoy transforming data into clear, structured insights that support business 
 - **[Python Data Analysis – Continuous Glucose Monitoring (CGM)](https://github.com/Alicja141004/CGM-Data-Analysis)**
   Exploratory analysis of continuous glucose monitoring (CGM) data from a type 1 diabetes patient, focusing on glucose trends, variability, and time-in-range metrics.
    
-- **[Distributed Systems Log Analysis – Spikes, Trends, Failures & Anomalies (In Progress 🚧)](https://github.com/Alicja141004/distributed-log-analysis)**
+- **[Distributed Systems Log Analysis – Spikes, Trends, Failures & Anomalies (In Progress 🚧)](https://github.com/Alicja141004/Distributed-Systems-Log-Analysis)**
   Analysis of large-scale synthetic logs from a distributed system to detect spikes, trends, failures, and anomalies, including root cause analysis and predictive modeling.
 
 
