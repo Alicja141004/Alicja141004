@@ -22,18 +22,50 @@ I enjoy transforming data into clear, structured insights that support business 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 Selected Projects
 
-## 📊 Selected projects
-- **[Student Stress – Power BI Dashboard](https://github.com/Alicja141004/student-stress-powerbi-dashboard)**
-  Interactive dashboard analyzing student stress levels and identifying at-risk groups.  
-
-
-- **[Python Data Analysis – Continuous Glucose Monitoring (CGM)](https://github.com/Alicja141004/CGM-Data-Analysis)**
-  Exploratory analysis of continuous glucose monitoring (CGM) data from a type 1 diabetes patient, focusing on glucose trends, variability, and time-in-range metrics.
-   
-- **[Distributed Systems Log Analysis – Spikes, Trends, Failures & Anomalies](https://github.com/Alicja141004/Distributed-Systems-Log-Analysis)**
-  Analysis of large-scale synthetic logs from a distributed system to detect spikes, trends, failures, and anomalies, including root cause analysis and predictive modeling.
-
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Alicja141004/horse-breed-classification">
+        <img src="assets/StreamlitSS.png" alt="Horse Breed Classification" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
+      </a>
+      <h4>Horse Breed Classification</h4>
+      <p align="justify"><kbd>Deep Learning</kbd> <kbd>Streamlit</kbd><br/>
+      EfficientNetB0 model with transfer learning and fine-tuning, deployed as an interactive web app.</p>
+      <a href="https://github.com/Alicja141004/horse-breed-classification"><b>View Repo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Alicja141004/CGM-Data-Analysis">
+        <img src="assets/dashboard_overview.png" alt="CGM Analysis" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
+      </a>
+      <h4>Python Data Analysis – CGM</h4>
+      <p align="justify"><kbd>EDA</kbd> <kbd>Time Series</kbd><br/>
+      In-depth exploratory analysis of continuous glucose monitoring data, focusing on variability and trends.</p>
+      <a href="https://github.com/Alicja141004/CGM-Data-Analysis"><b>View Repo →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Alicja141004/telco-churn-eda-and-ml">
+        <img src="assets/LogisticRegression.png" alt="Telco Churn" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
+      </a>
+      <h4>Telco Churn – ML</h4>
+      <p align="justify"><kbd>Classification</kbd> <kbd>Feature Engineering</kbd><br/>
+      Predictive model for customer churn, emphasizing data preprocessing and evaluation metrics.</p>
+      <a href="https://github.com/Alicja141004/telco-churn-eda-and-ml"><b>View Repo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Alicja141004/student-stress-powerbi-dashboard">
+        <img src="assets/overview.png" alt="Student Stress Dashboard" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
+      </a>
+      <h4>Student Stress Dashboard</h4>
+      <p align="justify"><kbd>Power BI</kbd> <kbd>Data Viz</kbd><br/>
+      Interactive operational dashboard identifying at-risk groups and stress correlations.</p>
+      <a href="https://github.com/Alicja141004/student-stress-powerbi-dashboard"><b>View Repo →</b></a>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact
 - 💼 LinkedIn: [Alicja Szulc](https://www.linkedin.com/in/alicja-szulc-373250256/)
