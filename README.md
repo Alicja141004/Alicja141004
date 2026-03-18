@@ -28,7 +28,7 @@ I enjoy transforming data into clear, structured insights that support business 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Alicja141004/horse-breed-classification">
-        <img src="assets/StreamlitSS.png" alt="Horse Breed Classification" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
+        <img src="assets/ss.jpg" alt="Horse Breed Classification" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
       </a>
       <h4>Horse Breed Classification</h4>
       <p align="justify"><kbd>Deep Learning</kbd> <kbd>Streamlit</kbd><br/>
