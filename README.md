@@ -37,7 +37,7 @@ I enjoy transforming data into clear, structured insights that support business 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Alicja141004/CGM-Data-Analysis">
-        <img src="assets/dashboard_overview.png" alt="CGM Analysis" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
+        <img src="assets/dashboard_16_9.jpg" alt="CGM Analysis" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
       </a>
       <h4>Python Data Analysis – CGM</h4>
       <p align="justify"><kbd>EDA</kbd> <kbd>Time Series</kbd><br/>
