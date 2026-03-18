@@ -46,9 +46,9 @@ I enjoy transforming data into clear, structured insights that support business 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" >
       <a href="https://github.com/Alicja141004/telco-churn-eda-and-ml">
-        <img src="assets/LogisticRegression.png" alt="Telco Churn" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
+        <img src="assets/LR.png" alt="Telco Churn" style="border-radius: 8px; border: 1px solid #ddd; width: 100%;"/>
       </a>
       <h4>Telco Churn – ML</h4>
       <p align="justify"><kbd>Classification</kbd> <kbd>Feature Engineering</kbd><br/>
