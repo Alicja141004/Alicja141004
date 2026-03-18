@@ -22,13 +22,13 @@ I enjoy transforming data into clear, structured insights that support business 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Featured Projects
+## 📊 Selected projects
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Alicja141004/horse-breed-classification">
-        <img src="assets/StreamlitSS.png" alt="Horse Breed Classification" style="border-radius: 8px; border: 1px solid #ddd;"/>
+        <img src="assets/StreamlitSS.png" alt="Horse Breed Classification" style="border-radius: 8px; border: 1px solid #ddd; width: 100%; height: 200px; object-fit: cover;"/>
       </a>
       <h4>Horse Breed Classification</h4>
       <p align="justify"><kbd>Deep Learning</kbd> <kbd>Streamlit</kbd><br/>
@@ -37,7 +37,7 @@ I enjoy transforming data into clear, structured insights that support business 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Alicja141004/CGM-Data-Analysis">
-        <img src="assets/dashboard_overview.png" alt="CGM Analysis" style="border-radius: 8px; border: 1px solid #ddd;"/>
+        <img src="assets/dashboard_overview.png" alt="CGM Analysis" style="border-radius: 8px; border: 1px solid #ddd; width: 100%; height: 200px; object-fit: cover;"/>
       </a>
       <h4>Python Data Analysis – CGM</h4>
       <p align="justify"><kbd>EDA</kbd> <kbd>Time Series</kbd><br/>
@@ -48,7 +48,7 @@ I enjoy transforming data into clear, structured insights that support business 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Alicja141004/telco-churn-eda-and-ml">
-        <img src="assets/LogisticRegression.png" alt="Telco Churn" style="border-radius: 8px; border: 1px solid #ddd;"/>
+        <img src="assets/LogisticRegression.png" alt="Telco Churn" style="border-radius: 8px; border: 1px solid #ddd; width: 100%; height: 200px; object-fit: cover;"/>
       </a>
       <h4>Telco Churn – ML</h4>
       <p align="justify"><kbd>Classification</kbd> <kbd>Feature Engineering</kbd><br/>
@@ -57,7 +57,7 @@ I enjoy transforming data into clear, structured insights that support business 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Alicja141004/student-stress-powerbi-dashboard">
-        <img src="assets/overview.png" alt="Student Stress Dashboard" style="border-radius: 8px; border: 1px solid #ddd;"/>
+        <img src="assets/overview.png" alt="Student Stress Dashboard" style="border-radius: 8px; border: 1px solid #ddd; width: 100%; height: 200px; object-fit: cover;"/>
       </a>
       <h4>Student Stress Dashboard</h4>
       <p align="justify"><kbd>Power BI</kbd> <kbd>Data Viz</kbd><br/>
